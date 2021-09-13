@@ -1,2 +1,2 @@
 # 0912_EX
-안녕하세요, HELLO WORLD!
+안녕하세요 HELLO WORLD!
